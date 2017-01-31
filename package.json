@@ -36,8 +36,7 @@
   },
   "gitHead": "abad1fd4db6c5b32b7565d659c268131bd7a3c2a",
   "homepage": "https://github.com/zippyui/react-virtual-scroller",
-  "keywords": [
-  ],
+  "keywords": [],
   "license": "MIT",
   "main": "lib/index.js",
   "maintainers": [
@@ -68,5 +67,5 @@
     "wdist": "webpack --watch --progress --colors --config dist.config.js",
     "wlib": "gulp watch"
   },
-  "version": "2.1.4"
+  "version": "2.1.5"
 }

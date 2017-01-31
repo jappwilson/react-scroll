@@ -67,5 +67,5 @@
     "wdist": "webpack --watch --progress --colors --config dist.config.js",
     "wlib": "gulp watch"
   },
-  "version": "2.1.5"
+  "version": "2.1.6"
 }
